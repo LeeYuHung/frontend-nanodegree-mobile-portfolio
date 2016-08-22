@@ -3,7 +3,6 @@
 This is the optimize version of the online portfolio. Read this file for more details.
 
 ## Grunt Project
-***
 
 #### What this project does
 This grunt project creates minified css, javascript, html and image files.
@@ -16,7 +15,6 @@ Put the files to minified in the file type directories under the src directories
 4. Run Grunt with ```grunt```. 
 
 ## Optimization
-***
 
 #### index.html optimization
 
