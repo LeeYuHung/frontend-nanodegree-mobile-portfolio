@@ -1,8 +1,9 @@
-## Website Performance Optimization portfolio project
+# Website Performance Optimization portfolio project
 
 This is the optimize version of the online portfolio. Read this file for more details.
 
-### Grunt Project
+## Grunt Project
+***
 
 #### What this project does
 This grunt project creates minified css, javascript, html and image files.
@@ -14,7 +15,8 @@ Put the files to minified in the file type directories under the src directories
 3. Install project dependencies with ```npm install```.
 4. Run Grunt with ```grunt```. 
 
-### Optimization
+## Optimization
+***
 
 #### index.html optimization
 
