@@ -7,6 +7,7 @@ This is the optimize version of the online portfolio. Read this file for more de
 #### What this project does
 This grunt project creates minified css, javascript, html and image files.
 Put the files to minified in the file type directories under the src directories(eg. All css files should be in ```src/css``` folder).You can find minified files in ```dist``` folder after you run the grunt.
+
 #### Install and Run Project
 1. Install the Grunt CLI. (Get more details from [here] (http://gruntjs.com/getting-started))
 2. Change to the grunt directory.
